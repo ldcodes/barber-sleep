@@ -1,18 +1,18 @@
-Thread-1 is coming in barber           there is 0 custom waiting , emptychair are 7      free  barber 0
-Thread-1 is sit down            there is 1 custom waiting , emptychair are 6      free  barber 0
-Thread-1 is cuting               there is 0 custom waiting , emptychair are 7      free  barber 0
-Thread-2 is coming in barber           there is 0 custom waiting , emptychair are 7      free  barber 0
-Thread-2 is sit down            there is 1 custom waiting , emptychair are 6      free  barber 0
-Thread-3 is coming in barber           there is 1 custom waiting , emptychair are 6      free  barber 0
-Thread-3 is sit down            there is 2 custom waiting , emptychair are 5      free  barber 0
-Thread-1 is finish              there is 2 custom waiting , emptychair are 5      free  barber 0
-Thread-2 is cuting               there is 1 custom waiting , emptychair are 6      free  barber 0
-Thread-4 is coming in barber           there is 1 custom waiting , emptychair are 6      free  barber 0
-Thread-4 is sit down            there is 2 custom waiting , emptychair are 5      free  barber 0
-Thread-5 is coming in barber           there is 2 custom waiting , emptychair are 5      free  barber 0
-Thread-5 is sit down            there is 3 custom waiting , emptychair are 4      free  barber 0
+Thread-1 is coming in barber           there is 0 custom waiting , emptychair are 7      free  barber 0 
+Thread-1 is sit down            there is 1 custom waiting , emptychair are 6      free  barber 0 
+Thread-1 is cuting               there is 0 custom waiting , emptychair are 7      free  barber 0 
+Thread-2 is coming in barber           there is 0 custom waiting , emptychair are 7      free  barber 0 
+Thread-2 is sit down            there is 1 custom waiting , emptychair are 6      free  barber 0 
+Thread-3 is coming in barber           there is 1 custom waiting , emptychair are 6      free  barber 0 
+Thread-3 is sit down            there is 2 custom waiting , emptychair are 5      free  barber 0 
+Thread-1 is finish              there is 2 custom waiting , emptychair are 5      free  barber 0 
+Thread-2 is cuting               there is 1 custom waiting , emptychair are 6      free  barber 0 
+Thread-4 is coming in barber           there is 1 custom waiting , emptychair are 6      free  barber 0 
+Thread-4 is sit down            there is 2 custom waiting , emptychair are 5      free  barber 0 
+Thread-5 is coming in barber           there is 2 custom waiting , emptychair are 5      free  barber 0 
+Thread-5 is sit down            there is 3 custom waiting , emptychair are 4      free  barber 0 
 Thread-2 is finish              there is 3 custom waiting , emptychair are 4      free  barber 0
-Thread-3 is cuting               there is 2 custom waiting , emptychair are 5      free  barber 0
+Thread-3 is cuting               there is 2 custom waiting , emptychair are 5      free  barber 0 
 Thread-6 is coming in barber           there is 2 custom waiting , emptychair are 5      free  barber 0
 Thread-6 is sit down            there is 3 custom waiting , emptychair are 4      free  barber 0
 Thread-3 is finish              there is 3 custom waiting , emptychair are 4      free  barber 0
